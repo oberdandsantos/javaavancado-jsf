@@ -1,0 +1,10 @@
+#pastas dos projetos que não precisam subir
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+Servers/
+
+#pastas e arquivos do projeto
+.settings/
+*.class
+lib/
